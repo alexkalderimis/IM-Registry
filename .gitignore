@@ -1,0 +1,9 @@
+Makefile.PL
+sessions
+logs
+.svn
+data*
+build
+_build
+Build
+blib
